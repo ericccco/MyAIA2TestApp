@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "379798609847",
+    "firebase_url": "https://my-app-indexing-api-test.firebaseio.com",
+    "project_id": "my-app-indexing-api-test",
+    "storage_bucket": "my-app-indexing-api-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379798609847:android:919b6abd2d8bb3f0",
+        "android_client_info": {
+          "package_name": "indexing.firebase.google.com.appindexingapitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379798609847-4tlgthsojs0gh9jh6r0ocet0lf8k4a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyol0BUrBISdNLbZhLfq4yS8W4UYAjUUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379798609847:android:39a75ef92f30742c",
+        "android_client_info": {
+          "package_name": "com.eriko.aia2test.myaia2testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379798609847-4tlgthsojs0gh9jh6r0ocet0lf8k4a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyol0BUrBISdNLbZhLfq4yS8W4UYAjUUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
